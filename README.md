@@ -9,5 +9,5 @@ Parking System
 
 4- pass car through the gate 
 
-5- get GetRemainingBalance to this car 
+5- GetRemainingBalance to this car 
 
